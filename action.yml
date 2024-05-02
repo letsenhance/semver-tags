@@ -67,5 +67,5 @@ outputs:
   previous-version:
     description: 'The previous version number.'
 runs:
-  using: 'node12'
+  using: 'node20'
   main: 'dist/index.js'
